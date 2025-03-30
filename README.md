@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Maria Luiza 👋
 
-<!--
-**Luizawmendes/Luizawmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## what i do till the moment 🌖
 
-Here are some ideas to get you started:
+*- I am currently studying at **FATEC- Jahu (SP) Faculty of Technology**, in the **GTI (Information Technology Management)** course.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*- I make **pseudocode** language and **html.***
+*- I will always be posting my learnings and codes made, here on this network.*
+## Follow me on these social networks too 🌐 
+
+**🗂️: LINKEDIN -** https://www.linkedin.com/in/luiza-mendes-687a29315
+
+**📷: INSTAGRAM -** https://www.instagram.com/zubabalu
+
+**📘: FACEBOOK -** https://www.facebook.com/share/195WyyZVB6/
