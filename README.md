@@ -1,6 +1,6 @@
 ## Hello, I'm Maria Luiza 👋
 
-## what i do till the moment 🌖
+### what i do till the moment 🌖
 
 *- I am currently studying at **FATEC- Jahu (SP) Faculty of Technology**, in the **GTI (Information Technology Management)** course.*
 
@@ -13,3 +13,4 @@
 **📷: INSTAGRAM -** https://www.instagram.com/zubabalu
 
 **📘: FACEBOOK -** https://www.facebook.com/share/195WyyZVB6/
+
